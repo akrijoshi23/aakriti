@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
   <title>Aakriti Joshi – Forest Ecologist</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
   <meta name="description"
-        content="Forest-themed homepage for Aakriti Joshi – plant ecologist and PhD researcher.">
+        content="Forest-themed homepage for Aakriti Joshi – plant ecologist and PhD researcher." />
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@300;400;600&display=swap"
-        rel="stylesheet">
+        rel="stylesheet" />
 
   <style>
     /* ---------- COLOR PALETTE ---------- */
@@ -113,9 +113,9 @@
 
   <!-- ---------- MAIN CONTENT ---------- -->
   <main>
-    <!-- About Me (only section filled) -->
+    <!-- About Me (now displays jasonandme.jpg) -->
     <section id="about" class="card profile">
-      <img src="img/profile.jpg" alt="Aakriti Joshi portrait">
+      <img src="image/jasonandme.jpg" alt="Aakriti Joshi with advisor Dr. Jason D. Fridley" />
       <div>
         <h2>About Me</h2>
         <p>
